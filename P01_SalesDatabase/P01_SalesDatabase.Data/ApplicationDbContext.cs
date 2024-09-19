@@ -14,6 +14,11 @@ namespace P01_SalesDatabase.P01_SalesDatabase.Data
     {
 
         public DbSet<Product> products { get; set; }
+        public DbSet<Customer> customers { get; set; }
+        public DbSet<Store> store { get; set; }
+
+        public DbSet<Sale> sales { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

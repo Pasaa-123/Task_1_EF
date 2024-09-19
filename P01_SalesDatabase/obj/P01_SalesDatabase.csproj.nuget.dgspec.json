@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kerol\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj": {}
+    "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kerol\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj": {
+    "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kerol\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
         "projectName": "P01_SalesDatabase",
-        "projectPath": "C:\\Users\\kerol\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
+        "projectPath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_SalesDatabase\\P01_SalesDatabase\\P01_SalesDatabase.csproj",
         "packagesPath": "C:\\Users\\kerol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kerol\\source\\repos\\P01_SalesDatabase\\P01_SalesDatabase\\obj\\",
+        "outputPath": "C:\\Users\\kerol\\OneDrive\\Desktop\\P01_SalesDatabase\\P01_SalesDatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kerol\\AppData\\Roaming\\NuGet\\NuGet.Config",
